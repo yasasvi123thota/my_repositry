@@ -1,4 +1,6 @@
 my name is yasasvi
 GitHub:
 GitHub is version control to save our project in repository
+
 GitHub is used to work on collaborative projects
+github is has effective tools to work with code
